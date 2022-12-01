@@ -1,8 +1,5 @@
-# Microbiological Risk Assessment Tools <img src="man/figures/logo.png" style="width:2.8cm"
+# Microbiological Risk Assessment Tools <img src="docs/logo.png" style="width:2.8cm"
 data-align="right" />
-
-<!-- badges: start -->
-<!-- [![Build Status](https://travis-ci.com/Mayooran1987/uneqmix.svg?branch=main)](https://travis-ci.com/Mayooran1987/uneqmixr)-->
 
 [![R](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml)
 [![R-CMD-check](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml)
