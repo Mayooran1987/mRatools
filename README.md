@@ -1,5 +1,4 @@
-# Microbiological Risk Assessment Tools <img src="docs/logo.png" style="width:2.8cm"
-data-align="right" />
+# Microbiological Risk Assessment Tools 
 
 [![R](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml)
 [![R-CMD-check](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml)
