@@ -21,13 +21,13 @@ packages in a single step via installing the ‘mRatools’ package.
 The following Packages are comprised in the ‘mRatools’ package:
 
 1.  [grabsampling](https://mayooran1987.github.io/grabsampling/) - The
-    goal of grabsampling is to the probability of detection calculation
+    goal of 'grabsampling' is to the probability of detection calculation
     for grab samples selection by using two different methods such as
     systematic or random based on two-state Markov chain in bulk
     production process.
 
 2.  [mixingsimulation](https://mayooran1987.github.io/mixingsimulation/) -
-    The goal of mixingsimulation is to develop simulated results and
+    The goal of 'mixingsimulation' is to develop simulated results and
     comparing graphical displays for different mixing plans.
 
 3.  [uneqmixr](https://mayooran1987.github.io/uneqmixr/index.html) - The
