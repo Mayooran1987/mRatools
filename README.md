@@ -55,8 +55,8 @@ Any R user can install the development version of mRatools package from
 
 ``` r
 # Install the development version from GitHub
-# install.packages("pak")
-pak::pak("Mayooran1987/mRatools")
+# install.packages("devtools")
+devtools::install_github("Mayooran1987/mRatools")
 ```
 
 ## User manual
