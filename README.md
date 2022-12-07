@@ -1,6 +1,6 @@
 # Microbiological Risk Assessment Tools
 
-<img src="man/figures/logo.png" align="right" width="120" />
+<img src="man/figures/logo.png" align="right" width="150" />
 
 <!-- badges: start -->
 <!-- [![Build Status](https://travis-ci.com/Mayooran1987/uneqmix.svg?branch=main)](https://travis-ci.com/Mayooran1987/uneqmixr)-->
