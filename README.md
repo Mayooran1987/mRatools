@@ -1,4 +1,4 @@
-# Microbiological Risk Assessment Tools
+# Microbiological Risk Assessment Tools (mRatools)
 
 <img src="man/figures/logo.png" align="right" width="150" />
 
