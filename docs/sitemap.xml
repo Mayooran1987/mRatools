@@ -7,12 +7,6 @@
     <loc>/authors.html</loc>
   </url>
   <url>
-    <loc>/CODE_OF_CONDUCT.html</loc>
-  </url>
-  <url>
-    <loc>/CONTRIBUTING.html</loc>
-  </url>
-  <url>
     <loc>/index.html</loc>
   </url>
   <url>
@@ -20,6 +14,9 @@
   </url>
   <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/mRatools-package.html</loc>
   </url>
   <url>
     <loc>/reference/mRatools_conflicts.html</loc>
@@ -35,8 +32,5 @@
   </url>
   <url>
     <loc>/reference/mRatools_update.html</loc>
-  </url>
-  <url>
-    <loc>/SUPPORT.html</loc>
   </url>
 </urlset>

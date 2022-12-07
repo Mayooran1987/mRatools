@@ -1,8 +1,17 @@
-# Microbiological Risk Assessment Tools 
+# Microbiological Risk Assessment Tools
+
+<img src="man/figures/logo.png" align="right" width="120" />
+
+<!-- badges: start -->
+<!-- [![Build Status](https://travis-ci.com/Mayooran1987/uneqmix.svg?branch=main)](https://travis-ci.com/Mayooran1987/uneqmixr)-->
 
 [![R](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml)
 [![R-CMD-check](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml)
 
+<!-- badges: end-->
+<style> 
+body {text-align: justify} 
+</style>
 
 ## Overview
 
@@ -21,13 +30,13 @@ packages in a single step via installing the ‘mRatools’ package.
 The following Packages are comprised in the ‘mRatools’ package:
 
 1.  [grabsampling](https://mayooran1987.github.io/grabsampling/) - The
-    goal of 'grabsampling' is to the probability of detection calculation
+    goal of grabsampling is to the probability of detection calculation
     for grab samples selection by using two different methods such as
     systematic or random based on two-state Markov chain in bulk
     production process.
 
 2.  [mixingsimulation](https://mayooran1987.github.io/mixingsimulation/) -
-    The goal of 'mixingsimulation' is to develop simulated results and
+    The goal of mixingsimulation is to develop simulated results and
     comparing graphical displays for different mixing plans.
 
 3.  [uneqmixr](https://mayooran1987.github.io/uneqmixr/index.html) - The
@@ -50,11 +59,12 @@ Any R user can install the development version of mRatools package from
 [GitHub](https://github.com/) with just two lines of code:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Mayooran1987/mRatools")
+# Install the development version from GitHub
+# install.packages("pak")
+pak::pak("Mayooran1987/mRatools")
 ```
 
-## User manual (will be updated soon)
+## User manual
 
 This package’s user manual can be seen at
 <https://github.com/Mayooran1987/mRatools/blob/main/mRatools_0.0.1.pdf>
