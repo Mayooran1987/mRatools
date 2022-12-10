@@ -34,7 +34,7 @@ mRatools_attach_message <- function(to_load) {
     right = paste0("mRatools ", package_version_h("mRatools"))
   )
    pkgs = core_packages
-   header1 <- "To learn more about any mRatools package, see browseURL(url = https://mayooran1987.github.io/pkgs)."
+   header1 <- "To learn more about any mRatools package, see browseURL(url = \"https://mayooran1987.github.io/pkgs\")."
    if (length(pkgs) > 0) {
      eg_msg <- paste0("\n", "E.g.")
      pkg_egs <- paste0("\t",
