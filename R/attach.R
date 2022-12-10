@@ -38,7 +38,7 @@ mRatools_attach_message <- function(to_load) {
    if (length(pkgs) > 0) {
      eg_msg <- paste0("\n", "E.g.")
      pkg_egs <- paste0("\t",
-                       "browseURL(url = https://mayooran1987.github.io/grabsampling)",collapse = "\n")
+                       "browseURL(url = \"https://mayooran1987.github.io/grabsampling\")",collapse = "\n")
      header1 <- paste0(header1, eg_msg, pkg_egs, "\n")
    }
 
