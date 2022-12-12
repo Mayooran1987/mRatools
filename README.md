@@ -7,7 +7,9 @@
 
 <!-- [[![R](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/r.yml)-->
 [![R-CMD-check](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/rcmd.yml)
-
+[![pages-build-deployment](https://github.com/Mayooran1987/mRatools/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mayooran1987/mRatools/actions/workflows/pages/pages-build-deployment)
+<a href="https://github.com/Mayooran1987/mRatools/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/Mayooran1987/mRatools" /></a>
 ## Overview
 
 The ‘mRatools’ package aims to develop to make it easy to install and
