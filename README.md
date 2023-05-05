@@ -12,43 +12,12 @@
         <img src="https://img.shields.io/github/commit-activity/m/Mayooran1987/mRatools" /></a>
 ## Overview
 
-The ‘mRatools’ package aims to develop to make it easy to install and
-load multiple microbiological risk assessment based R packages in a
-single step. Also, a description of this package’s functions is
-available at
-<https://mayooran1987.github.io/mRatools/reference/index.html>.
-
-The package name ‘mRatools’ is created from Microbiological Risk
-Assessment Tools, which currently includes four R packages. In future,
-more R packages will be comprised, associated with microbiological risk
-assessment-based research. Therefore, any R user can install all four
-packages in a single step via installing the ‘mRatools’ package.
-
-The following Packages are comprised in the ‘mRatools’ package:
-
-1.  [grabsampling](https://mayooran1987.github.io/grabsampling/) - The
-    goal of grabsampling is to the probability of detection calculation
-    for grab samples selection by using two different methods such as
-    systematic or random based on two-state Markov chain in bulk
-    production process.
-
-2.  [mixingsimulation](https://mayooran1987.github.io/mixingsimulation/) -
-    The goal of mixingsimulation is to develop simulated results and
-    comparing graphical displays for different mixing plans.
-
-3.  [uneqmixr](https://mayooran1987.github.io/uneqmixr/index.html) - The
-    ‘uneqmix’ package aims to develop for estimate probabilities
-    associated with risk assessment when aggregating unequal incremental
-    samples. Also, the package provides graphical displays for different
-    various sampling schemes.
-
-4.  [dilutionrisk](https://mayooran1987.github.io/dilutionrisk/) - The
-    ‘dilutionrisk’ package aims to develop for getting probability
-    estimations and graphical displays in the study associated with
-    modelling and assessment of risk based on aerobic plate count (APC)
-    on diluted testing.
-
-<!-- (Note that the web page contains an older version of the package. The most recent version of the page, which is associated with the current version of the package, will be updated soon). -->
+The package name ‘mRatools’ stands for Microbiological Risk Assessment Tools, which currently includes four R packages. This package enables easy installation and loading of four R packages  for microbiological risk assessment. Also, a description of this package’s functions is available at <https://mayooran1987.github.io/mRatools/reference/index.html>.
+More R packages for microbiological risk assessment are planned and added to this wrapper package. The following Packages are currently wrapped in the ‘mRatools’ package:
+1. [grabsampling](https://mayooran1987.github.io/grabsampling/) - The goal of grabsampling package is to enable probability of detection calculation for grab samples selection by using two different methods such as systematic or random based on two-state Markov chain in bulk production process..
+2. [mixingsimulation](https://mayooran1987.github.io/mixingsimulation/) - The goal of mixingsimulation is to develop simulated results and creation of graphical displays for different mixing plans. 
+3. [uneqmixr](https://mayooran1987.github.io/uneqmixr/index.html) - The ‘uneqmix’ package aims to develop Monte-Carlo estimates of probabilities associated with risk assessment when aggregating unequal incremental samples. Also, the package provides graphical displays for different various sampling schemes. 
+4. [dilutionrisk](https://mayooran1987.github.io/dilutionrisk/) - The ‘dilutionrisk’ package aims to develop Monte-Carlo estimates of probabilities and graphical displays in the study associated with modelling and assessment of risk based on aerobic plate count (APC) on diluted testing.
 
 ## Installation
 
