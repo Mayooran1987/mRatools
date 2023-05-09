@@ -19,11 +19,5 @@ Useful links:
 \author{
 \strong{Maintainer}: Mayooran Thevaraja \email{mayooran@eng.jfn.ac.lk}
 
-Authors:
-\itemize{
-  \item Kondaswamy Govindaraju \email{k.govindaraju@massey.ac.nz}
-  \item Mark Bebbington \email{m.bebbington@massey.ac.nz}
-}
-
 }
 \keyword{internal}

@@ -3,11 +3,8 @@ Type: Package
 Title: Microbiological risk assessment tools
 Version: 0.0.1
 Authors@R: c(
-          person("Mayooran", "Thevaraja", email = "mayooran@eng.jfn.ac.lk", role = c("aut", "cre")),
-          person("Kondaswamy", "Govindaraju", email = "k.govindaraju@massey.ac.nz", role = "aut"),
-          person("Mark", "Bebbington", email = "m.bebbington@massey.ac.nz", role = "aut")
-          )
-Authors: Mayooran Thevaraja [aut, cre], Kondaswamy Govindaraju [aut], Mark Bebbington [aut]
+          person("Mayooran", "Thevaraja", email = "mayooran@eng.jfn.ac.lk", role = c("aut", "cre")))
+Authors: Mayooran Thevaraja [aut, cre]
 URL: https://github.com/Mayooran1987/mRatools
 BugReports: https://github.com/Mayooran1987/mRatools/issues
 Description: This package is designed to make it easy to install and load multiple microbiological risk assessment based R packages in a single step.
@@ -15,13 +12,13 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Imports: grabsampling, mixingsimulation, uneqmixr, dilutionrisk
-Remotes:  
+Remotes: 
   Mayooran1987/grabsampling, 
   Mayooran1987/dilutionrisk, 
   Mayooran1987/mixingsimulation, 
   Mayooran1987/uneqmixr
 Suggests: rstudioapi, rlang, cli, crayon, remotes, spelling, testthat (>= 3.0.0), covr, mockr
-RoxygenNote: 7.2.2
+RoxygenNote: 7.2.3
 Depends: R (>= 4.0)
 Maintainer: Mayooran Thevaraja <mayooran@eng.jfn.ac.lk>
 Language: en-US
